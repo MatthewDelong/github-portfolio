@@ -6,10 +6,11 @@
 
 # Demo :movie_camera:
 
-![httpsgithub abusaid me](https://github.com/said7388/github-portfolio/assets/77630868/a331f996-1b4d-451a-941f-a15f5ae6de93)
+![matthew-github](https://github.com/MatthewDelong/github-portfolio/assets/1036327/a602a232-6255-474a-b7fd-35845bf42f00)
 
 
-## View live preview [here](https://my-github-portfolio.netlify.app/)
+
+## View live preview [here](https://matthew-github.netlify.app/)
 
 ---
 
@@ -64,11 +65,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 # Usage :joystick:
 
 If you want to use Google Analytics, Please create a new `.env` file from `.env.example` file and provide the value.
+If using in a production environment i.e deployed on netlify, then remove .env from the .gitignore file so you can commit to git.
 
 Eg:
 
 ```env
-NEXT_PUBLIC_GTM = ""
+NEXT_PUBLIC_GTM = "G-XXXXXXXXXX"
 ```
 
 ### Now, you have to customize user data in the `data` [folder](https://github.com/said7388/developer-portfolio/tree/main/data).
