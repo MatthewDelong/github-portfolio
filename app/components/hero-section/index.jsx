@@ -4,7 +4,7 @@ import { userData } from "@/data/user-data";
 import Image from "next/image";
 import Link from "next/link";
 import { BsGithub, BsLinkedin } from "react-icons/bs";
-import { FaFacebook, FaTwitterSquare } from "react-icons/fa";
+import { FaFacebook, FaXTwitter } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 import { SiLeetcode } from "react-icons/si";
 
